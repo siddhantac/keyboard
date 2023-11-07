@@ -13,4 +13,5 @@ return {
   { 'w', 'WhatsApp' },
   { 'z', 'zoom.us' },
   { 'x', 'Firefox' },
+  { 't', 'Todoist' },
 }
