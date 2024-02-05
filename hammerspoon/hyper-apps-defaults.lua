@@ -4,14 +4,15 @@
 -- this file, save it as `hyper-apps.lua`, and edit the table below to configure
 -- your preferred shortcuts.
 return {
-  { 'c', 'Google Chrome' },
-  { 'f', 'Finder' },
-  { 'k', 'Kitty' },
-  { 'o', 'Obsidian' },
-  { 'p', 'Spotify' },
-  { 's', 'Slack' },
-  { 'w', 'WhatsApp' },
-  { 'z', 'zoom.us' },
-  { 'x', 'Firefox' },
-  { 't', 'Todoist' },
+    { 'c', 'Arc' },
+    { 'g', 'Google Chrome' },
+    { 'f', 'Finder' },
+    { 'k', 'Kitty' },
+    { 'o', 'Obsidian' },
+    { 'p', 'Spotify' },
+    { 's', 'Slack' },
+    { 'w', 'WhatsApp' },
+    { 'z', 'zoom.us' },
+    { 'x', 'Firefox' },
+    { 't', 'Todoist' },
 }
